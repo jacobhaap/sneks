@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+body {
+  font-family: 'Bebas Neue', cursive;
+}
+h1 {
+  font-size: 75px;
+}
+p {
+  font-size: 25px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
