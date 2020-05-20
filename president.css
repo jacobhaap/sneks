@@ -15,6 +15,12 @@ p {
   margin-right: 15%;
   font-family: 'Open Sans', sans-serif;
 }
+li {
+  font-size: 25px;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: 'Open Sans', sans-serif;
+}
 .twitter-timeline {
   margin-left: 15%;
   width: 60%;
