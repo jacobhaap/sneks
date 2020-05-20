@@ -16,6 +16,6 @@ p {
   font-family: 'Open Sans', sans-serif;
 }
 .twitter-timeline {
-  margin-left: 15%;
-  margin-right: 15%;
+  margin: auto;
+  width: 50%;
 }
